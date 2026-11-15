@@ -91,11 +91,34 @@ xn--12cl2bca0a9jsa8a7e1dc3gd.com##.adv
 xn--l3ca4b6dsc1b.com##a.video-player-banner
 xn--l3ca4b6dsc1b.com##.dac-section--float
 xn--l3ca4b6dsc1b.com##.dac-section--banner
+xn--l3ca4b6dsc1b.com##.dac
 
 ! https://xn--12c1ezaww.com
 xn--12c1ezaww.com##a.video-player-banner
 xn--12c1ezaww.com##.dac-section--float
 xn--12c1ezaww.com##.dac-section--banner
+xn--12c1ezaww.com##.dac
+xn--12c1ezaww.com##.video-player-banners-left
+xn--12c1ezaww.com##.video-player-banners-right
+
+! https://yedxjav.com
+yedxjav.com##.banner-row
+yedxjav.com##.ads-floating-group
+yedxjav.com###rt-start-overlay
+yedxjav.com###rt-ad-overlay
+yedxjav.com###rt-preroll-wrap
+||spaceup.live^$media,domain=yedxjav.com
+
+! https://xnxx3.us
+xnxx3.us##.happy-section
+xnxx3.us##.happy-under-player
+xnxx3.us##.happy-inside-player
+xnxx3.us##.happy-player-beside
+
+! https://lumierecore.com (video player embedded by the sites above: pre-roll ad videos + overlay)
+||googles.video/c2FnYW1l$media,domain=lumierecore.com
+||allmp4.pro^$media,domain=lumierecore.com
+||image.cdend.com^$media,domain=lumierecore.com
 
 ! https://warpav.net
 warpav.net##div.acf-bn-wrap.top-bn

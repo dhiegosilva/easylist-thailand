@@ -138,3 +138,6 @@ nungkai.com##+js(set-attr, body, oncontextmenu, '')
 
 ! subthai.tv
 subthai.tv##+js(nano-sib, กดเพื่อดูหนัง, *)
+
+! lumierecore.com (player embedded by Thai clip sites: 350x350 ad overlay with a close button)
+lumierecore.com##body > div:has(img[alt="Promotion"])
