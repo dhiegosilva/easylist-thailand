@@ -120,6 +120,10 @@ xnxx3.us##.happy-player-beside
 ||allmp4.pro^$media,domain=lumierecore.com
 ||image.cdend.com^$media,domain=lumierecore.com
 
+! https://onlypinayvid.co (domains rotate: onlypinay.io, onlypinayvid1.xyz, ...)
+onlypinay.tv,onlypinay.io,onlypinayvid.co,onlypinayvid1.xyz##.zumma-addon-buttons
+$script,xmlhttprequest,third-party,domain=onlypinay.tv|onlypinay.io|onlypinayvid.co|onlypinayvid1.xyz
+
 ! https://warpav.net
 warpav.net##div.acf-bn-wrap.top-bn
 warpav.net##div.acf-bn-wrap.video-bn
